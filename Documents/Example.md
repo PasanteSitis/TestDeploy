@@ -19,16 +19,4 @@ Whether using a mobile device, a workstation, or a web client, Nextcloud provide
 
 *All example pictures, videos & documents are licensed under Creative Commons Attribution.*
 
-*Esta es mi saludo soy joan sebastian. otravez*
-
-*porfavor mandate*
-
-*ahora si?*
-
-*HASASA*
-
-*ADWADAWDWA*
-
-*porfavor*
-
-*porfavbor mandate*
+*no se puiede subirrrrryaaaaaaa*
