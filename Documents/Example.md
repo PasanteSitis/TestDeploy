@@ -17,4 +17,6 @@ With Nextcloud Hub you can:
 You can do all of this in the web interface, via you desktop or your Android and iOS devices.
 Whether using a mobile device, a workstation, or a web client, Nextcloud provides the ability to put the right files in the right hands at the right time on any device in one simple-to-use, secure, private and controlled solution.
 
-*All example pictures, videos & documents are licensed under Creative Commons Attribution.*
+*All example pictures, videos & documents are licensed under Creative Commons Attribution.*  
+  
+*Soy joan sebastian procedo a hacer pipelines*
