@@ -20,3 +20,5 @@ Whether using a mobile device, a workstation, or a web client, Nextcloud provide
 *All example pictures, videos & documents are licensed under Creative Commons Attribution.*  
   
 *Soy joan sebastian procedo a hacer pipelines*
+
+*actualizo contenido*
